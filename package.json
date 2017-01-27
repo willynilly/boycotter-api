@@ -1,0 +1,19 @@
+{
+  "name": "boycotter-api",
+  "version": "1.0.0",
+  "description": "A serverless API for boycotter",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "sls deploy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Riley <will@quietsimple.com> (http://willriley.net/)",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.7.21",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {
+    "serverless-offline": "^3.8.3"
+  }
+}

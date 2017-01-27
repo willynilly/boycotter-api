@@ -1,2 +1,2 @@
 # boycotter-api
-A serverless backend for boycotter.
+A serverless API for boycotter.
